@@ -8,4 +8,6 @@ package com.demo;
  * @Date 2020/11/19
  */
 public class Hello {
+    private int age;
+    private  String name;
 }
